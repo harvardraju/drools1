@@ -5,8 +5,8 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.redhat.demos.dm</groupId>
 	<artifactId>loan-application</artifactId>
-	<version>1.2.0</version>
-	<name>gufi-validation</name>
+	<version>1.0.0</version>
+	<name>gufi-validation-demo-1</name>
 	<description>GUFI validation Demo</description>
 
 	<properties>
