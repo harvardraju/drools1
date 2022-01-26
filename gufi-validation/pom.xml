@@ -4,10 +4,10 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.redhat.demos.dm</groupId>
-	<artifactId>loan-application</artifactId>
-	<version>1.2.0</version>
-	<name>loan-application</name>
-	<description>Loan Application Demo</description>
+	<artifactId>gufi-validation</gufi-validation></artifactId>
+	<version>1.0.0</version>
+	<name>gufi validation</name>
+	<description>Gufi Validation Demo</description>
 	<properties>
 	  <maven.compiler.source>1.8</maven.compiler.source>
 	  <maven.compiler.target>1.8</maven.compiler.target>
