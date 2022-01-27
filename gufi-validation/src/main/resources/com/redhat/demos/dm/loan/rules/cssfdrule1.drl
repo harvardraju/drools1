@@ -1,6 +1,6 @@
-package com.sample.rules
+package com.redhat.demos.dm.loan.rules;
  
-import com.sample.CssfdDroolsDemo01.Message;
+import com.redhat.demos.dm.loan.model.Message;
  
 rule "GufiIsUUID"
     when
